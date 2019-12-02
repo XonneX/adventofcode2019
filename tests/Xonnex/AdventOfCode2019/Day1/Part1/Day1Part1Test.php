@@ -3,7 +3,6 @@ declare(strict_types=1);
 
 namespace XonneX\AdventOfCode2019\Day1\Part1;
 
-use XonneX\AdventOfCode2019\Day1\Part1\Day1Part1;
 use PHPUnit\Framework\TestCase;
 
 class Day1Part1Test extends TestCase
