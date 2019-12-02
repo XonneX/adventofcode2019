@@ -1,0 +1,15 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "8.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "XonneX\\AdventOfCode2019\\": "src/XonneX/AdventOfCode2019"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "XonneX\\AdventOfCode2019\\": "tests/XonneX/AdventOfCode2019"
+    }
+  }
+}
