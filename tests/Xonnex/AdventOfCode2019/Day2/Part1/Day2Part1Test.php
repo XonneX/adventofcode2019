@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace XonneX\AdventOfCode2019\Day2\Part1;
 
