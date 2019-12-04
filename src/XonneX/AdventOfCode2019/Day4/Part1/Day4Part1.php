@@ -18,8 +18,6 @@ class Day4Part1 implements PuzzleInterface
 
         $counter = 0;
 
-        $res = $this->match('344567');
-
         foreach ($numbers as $number) {
             if ($this->match((string)$number)) {
                 $counter++;
